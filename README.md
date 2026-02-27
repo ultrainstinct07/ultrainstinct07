@@ -1,14 +1,101 @@
-# 💫 About Me:
-🛠 I'm currently working on:<br><br>    Developing a private AI server for college guidance using Llama 2.<br>    A web application for Smart Community Energy Management System (SCEMS).<br><br>🤝 I'm looking to collaborate on:<br><br>    AI/ML projects, cybersecurity research, or blockchain development.<br><br>🤲 I'm looking for help with:<br><br>    Optimization of my AI server project and web development for SCEMS.<br><br>🌱 I'm currently learning:<br><br>    Advanced concepts in TensorFlow and cybersecurity techniques.<br><br>💬 Ask me about:<br><br>    Cybersecurity, AI for surveillance, and networking.
+<h1 align="center">Kshitiz Kumar</h1>
+<p align="center">
+Red Team Analyst • Offensive Security Engineer • Security Tool Builder
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz-kumar-void999/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kshitiz-kumar-void999/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bbruce670@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-333?style=flat&logo=gmail"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ultrainstinct07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ultrainstinct07&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrainstinct07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚔️ About Me
+
+CRTA-certified Red Team Analyst with 1+ year of hands-on experience in:
+
+- Web & Mobile Application Penetration Testing  
+- Active Directory Attacks  
+- Adversary Simulation  
+- Security Automation & Tool Development  
+
+Currently preparing for **OSCP** and focused on mastering real-world offensive tradecraft.
+
+I build tools. I break systems. I automate attack paths. I document everything.
+
+---
+
+## 🛠 What I’m Building
+
+### 🔥 Vulnessus
+Enterprise-grade vulnerability scanning platform inspired by Nessus.
+
+- Rust (Axum) backend
+- Python-based plugin engine (via PyO3)
+- Async multi-technique port scanning
+- OS & service fingerprinting
+- Encrypted credential handling (AES-256-GCM)
+- Elasticsearch for scan data
+- Real-time monitoring using SSE
+- Docker-based deployment
+- Modern Next.js frontend
+
+This is not a toy scanner.  
+This is long-term infrastructure.
+
+---
+
+## 🧠 Current Focus
+
+- Advanced Web Exploitation
+- Active Directory post-exploitation
+- Privilege escalation (Windows & Linux)
+- Custom offensive tooling
+- Automation in Rust & Python
+- OSCP-level lab grinding
+
+---
+
+## 💻 Core Stack
+
+### Languages
+Python • Rust • Go • C/C++ • PowerShell
+
+### Offensive Tooling
+Burp Suite • BloodHound • Impacket • CrackMapExec • Metasploit • Nmap • WinPEAS
+
+### Infrastructure
+Docker • Linux (Ubuntu) • Elasticsearch • MongoDB
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ultrainstinct07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultrainstinct07&theme=dracula&hide_border=false"/>
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I’m interested in:
+
+- Red team research
+- Offensive security tooling
+- Exploit development
+- Security automation
+
+If you're building serious security infrastructure — let’s talk.
+
+---
+
+<p align="center">
+  <i>Build tools. Break assumptions. Stay technical.</i>
+</p>
