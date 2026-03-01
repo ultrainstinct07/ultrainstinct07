@@ -73,16 +73,6 @@ Docker • Linux (Ubuntu) • Elasticsearch • MongoDB
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultrainstinct07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultrainstinct07&theme=dracula&hide_border=false"/>
-</p>
-
----
-
 ## 🤝 Collaboration
 
 I’m interested in:
